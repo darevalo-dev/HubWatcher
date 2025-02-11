@@ -1,0 +1,1299 @@
+[
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-3-TR-720-TO-3521",
+        "price": "1203",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-3-TR-720-A3-616",
+        "price": "1213",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-VN-18-VN-215-VJ-85-TR-3-TR-720-TO-3521",
+        "price": "1151",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-VN-18-VN-215-VJ-85-TR-3-TR-720-A3-616",
+        "price": "1161",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-EY-34-EY-416-D7-222-TR-3-TR-720-TO-3521",
+        "price": "1245",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T22:05:00",
+                "arrivalLocalTime": "2025-09-11T06:45:00",
+                "flightCode": "34",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-11T08:55:00",
+                "arrivalLocalTime": "2025-09-11T20:15:00",
+                "flightCode": "416",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T23:35:00",
+                "arrivalLocalTime": "2025-09-12T09:45:00",
+                "flightCode": "222",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-3-AI-2383-AI-147",
+        "price": "1293",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-20T23:00:00",
+                "arrivalLocalTime": "2025-09-21T02:30:00",
+                "flightCode": "2383",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T04:55:00",
+                "arrivalLocalTime": "2025-09-21T10:35:00",
+                "flightCode": "147",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-3-AI-2383-AI-147",
+        "price": "1295",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-20T23:00:00",
+                "arrivalLocalTime": "2025-09-21T02:30:00",
+                "flightCode": "2383",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T04:55:00",
+                "arrivalLocalTime": "2025-09-21T10:35:00",
+                "flightCode": "147",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-VN-18-VN-215-VJ-85-TR-3-AI-2383-AI-147",
+        "price": "1229",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-20T23:00:00",
+                "arrivalLocalTime": "2025-09-21T02:30:00",
+                "flightCode": "2383",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T04:55:00",
+                "arrivalLocalTime": "2025-09-21T10:35:00",
+                "flightCode": "147",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-EY-34-EY-416-D7-222-TR-3-TR-720-A3-616",
+        "price": "1255",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T22:05:00",
+                "arrivalLocalTime": "2025-09-11T06:45:00",
+                "flightCode": "34",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-11T08:55:00",
+                "arrivalLocalTime": "2025-09-11T20:15:00",
+                "flightCode": "416",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T23:35:00",
+                "arrivalLocalTime": "2025-09-12T09:45:00",
+                "flightCode": "222",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-13-AI-2381-AI-143",
+        "price": "1308",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T20:45:00",
+                "arrivalLocalTime": "2025-09-21T03:10:00",
+                "flightCode": "13",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-21T08:35:00",
+                "arrivalLocalTime": "2025-09-21T11:50:00",
+                "flightCode": "2381",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T13:40:00",
+                "arrivalLocalTime": "2025-09-21T19:25:00",
+                "flightCode": "143",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-VN-18-VN-215-VJ-85-TR-13-AI-2381-AI-143",
+        "price": "1244",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T20:45:00",
+                "arrivalLocalTime": "2025-09-21T03:10:00",
+                "flightCode": "13",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-21T08:35:00",
+                "arrivalLocalTime": "2025-09-21T11:50:00",
+                "flightCode": "2381",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T13:40:00",
+                "arrivalLocalTime": "2025-09-21T19:25:00",
+                "flightCode": "143",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-VN-10-VJ-85-TR-3-TR-720-TO-3521",
+        "price": "1218",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-10T11:35:00",
+                "arrivalLocalTime": "2025-09-11T04:45:00",
+                "flightCode": "10",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s4-c3-MH-21-D7-220-TG-472-TG-930",
+        "price": "1374",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "BKK",
+                "departureLocalTime": "2025-09-20T14:50:00",
+                "arrivalLocalTime": "2025-09-20T21:10:00",
+                "flightCode": "472",
+                "carrierCode": "TG"
+            },
+            {
+                "sourceStationId": "BKK",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T00:05:00",
+                "arrivalLocalTime": "2025-09-21T07:10:00",
+                "flightCode": "930",
+                "carrierCode": "TG"
+            }
+        ]
+    },
+    {
+        "id": "s5-c3-EY-32-EY-454-TR-3-TR-720-TO-3521",
+        "price": "1315",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T10:20:00",
+                "arrivalLocalTime": "2025-09-10T19:00:00",
+                "flightCode": "32",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-10T22:25:00",
+                "arrivalLocalTime": "2025-09-11T18:10:00",
+                "flightCode": "454",
+                "carrierCode": "EY"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-W4-6340-SQ-377-TR-12-TR-3-TR-720-TO-3521",
+        "price": "1286",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "BVA",
+                "destinationStationId": "MXP",
+                "departureLocalTime": "2025-09-10T07:45:00",
+                "arrivalLocalTime": "2025-09-10T09:20:00",
+                "flightCode": "6340",
+                "carrierCode": "W4"
+            },
+            {
+                "sourceStationId": "MXP",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-10T13:25:00",
+                "arrivalLocalTime": "2025-09-11T07:40:00",
+                "flightCode": "377",
+                "carrierCode": "SQ"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T10:00:00",
+                "arrivalLocalTime": "2025-09-11T19:30:00",
+                "flightCode": "12",
+                "carrierCode": "TR"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s5-c3-EY-34-EY-450-TR-3-TR-720-TO-3521",
+        "price": "1315",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T22:05:00",
+                "arrivalLocalTime": "2025-09-11T06:45:00",
+                "flightCode": "34",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T10:40:00",
+                "arrivalLocalTime": "2025-09-12T06:10:00",
+                "flightCode": "450",
+                "carrierCode": "EY"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "ORY",
+                "departureLocalTime": "2025-09-21T11:00:00",
+                "arrivalLocalTime": "2025-09-21T13:30:00",
+                "flightCode": "3521",
+                "carrierCode": "TO"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-VN-10-VJ-85-TR-3-TR-720-A3-616",
+        "price": "1228",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-10T11:35:00",
+                "arrivalLocalTime": "2025-09-11T04:45:00",
+                "flightCode": "10",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-13-AI-2381-AI-143",
+        "price": "1331",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T20:45:00",
+                "arrivalLocalTime": "2025-09-21T03:10:00",
+                "flightCode": "13",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-21T08:35:00",
+                "arrivalLocalTime": "2025-09-21T11:50:00",
+                "flightCode": "2381",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T13:40:00",
+                "arrivalLocalTime": "2025-09-21T19:25:00",
+                "flightCode": "143",
+                "carrierCode": "AI"
+            }
+        ]
+    },
+    {
+        "id": "s5-c4-MH-21-D7-220-TR-13-TR-720-GQ-900",
+        "price": "1190",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-10T11:25:00",
+                "arrivalLocalTime": "2025-09-11T06:10:00",
+                "flightCode": "21",
+                "carrierCode": "MH"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T09:50:00",
+                "arrivalLocalTime": "2025-09-11T20:00:00",
+                "flightCode": "220",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T20:45:00",
+                "arrivalLocalTime": "2025-09-21T03:10:00",
+                "flightCode": "13",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-22T01:30:00",
+                "arrivalLocalTime": "2025-09-22T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-22T10:40:00",
+                "arrivalLocalTime": "2025-09-22T13:15:00",
+                "flightCode": "900",
+                "carrierCode": "GQ"
+            }
+        ]
+    },
+    {
+        "id": "s5-c3-EY-32-EY-454-TR-3-TR-720-A3-616",
+        "price": "1325",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T10:20:00",
+                "arrivalLocalTime": "2025-09-10T19:00:00",
+                "flightCode": "32",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-10T22:25:00",
+                "arrivalLocalTime": "2025-09-11T18:10:00",
+                "flightCode": "454",
+                "carrierCode": "EY"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-W4-6340-SQ-377-TR-12-TR-3-TR-720-A3-616",
+        "price": "1296",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "BVA",
+                "destinationStationId": "MXP",
+                "departureLocalTime": "2025-09-10T07:45:00",
+                "arrivalLocalTime": "2025-09-10T09:20:00",
+                "flightCode": "6340",
+                "carrierCode": "W4"
+            },
+            {
+                "sourceStationId": "MXP",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-10T13:25:00",
+                "arrivalLocalTime": "2025-09-11T07:40:00",
+                "flightCode": "377",
+                "carrierCode": "SQ"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T10:00:00",
+                "arrivalLocalTime": "2025-09-11T19:30:00",
+                "flightCode": "12",
+                "carrierCode": "TR"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s5-c3-EY-34-EY-450-TR-3-TR-720-A3-616",
+        "price": "1325",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T22:05:00",
+                "arrivalLocalTime": "2025-09-11T06:45:00",
+                "flightCode": "34",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T10:40:00",
+                "arrivalLocalTime": "2025-09-12T06:10:00",
+                "flightCode": "450",
+                "carrierCode": "EY"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-21T01:30:00",
+                "arrivalLocalTime": "2025-09-21T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T10:40:00",
+                "arrivalLocalTime": "2025-09-21T13:10:00",
+                "flightCode": "616",
+                "carrierCode": "A3"
+            }
+        ]
+    },
+    {
+        "id": "s5-c3-VN-18-VN-215-VJ-85-TG-472-TG-930",
+        "price": "1324",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "BKK",
+                "departureLocalTime": "2025-09-20T14:50:00",
+                "arrivalLocalTime": "2025-09-20T21:10:00",
+                "flightCode": "472",
+                "carrierCode": "TG"
+            },
+            {
+                "sourceStationId": "BKK",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T00:05:00",
+                "arrivalLocalTime": "2025-09-21T07:10:00",
+                "flightCode": "930",
+                "carrierCode": "TG"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-VN-18-VN-215-VJ-85-TR-13-TR-720-GQ-900",
+        "price": "1137",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "HAN",
+                "departureLocalTime": "2025-09-10T14:00:00",
+                "arrivalLocalTime": "2025-09-11T06:30:00",
+                "flightCode": "18",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "HAN",
+                "destinationStationId": "SGN",
+                "departureLocalTime": "2025-09-11T15:00:00",
+                "arrivalLocalTime": "2025-09-11T17:10:00",
+                "flightCode": "215",
+                "carrierCode": "VN"
+            },
+            {
+                "sourceStationId": "SGN",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T19:30:00",
+                "arrivalLocalTime": "2025-09-12T07:20:00",
+                "flightCode": "85",
+                "carrierCode": "VJ"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T20:45:00",
+                "arrivalLocalTime": "2025-09-21T03:10:00",
+                "flightCode": "13",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "ATH",
+                "departureLocalTime": "2025-09-22T01:30:00",
+                "arrivalLocalTime": "2025-09-22T08:20:00",
+                "flightCode": "720",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "ATH",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-22T10:40:00",
+                "arrivalLocalTime": "2025-09-22T13:15:00",
+                "flightCode": "900",
+                "carrierCode": "GQ"
+            }
+        ]
+    },
+    {
+        "id": "s6-c4-EY-34-EY-416-D7-222-TR-3-AI-2383-AI-147",
+        "price": "1336",
+        "currency": "EUR",
+        "outbound": [
+            {
+                "sourceStationId": "CDG",
+                "destinationStationId": "AUH",
+                "departureLocalTime": "2025-09-10T22:05:00",
+                "arrivalLocalTime": "2025-09-11T06:45:00",
+                "flightCode": "34",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "AUH",
+                "destinationStationId": "KUL",
+                "departureLocalTime": "2025-09-11T08:55:00",
+                "arrivalLocalTime": "2025-09-11T20:15:00",
+                "flightCode": "416",
+                "carrierCode": "EY"
+            },
+            {
+                "sourceStationId": "KUL",
+                "destinationStationId": "SYD",
+                "departureLocalTime": "2025-09-11T23:35:00",
+                "arrivalLocalTime": "2025-09-12T09:45:00",
+                "flightCode": "222",
+                "carrierCode": "D7"
+            }
+        ],
+        "inbound": [
+            {
+                "sourceStationId": "SYD",
+                "destinationStationId": "SIN",
+                "departureLocalTime": "2025-09-20T12:50:00",
+                "arrivalLocalTime": "2025-09-20T19:15:00",
+                "flightCode": "3",
+                "carrierCode": "TR"
+            },
+            {
+                "sourceStationId": "SIN",
+                "destinationStationId": "DEL",
+                "departureLocalTime": "2025-09-20T23:00:00",
+                "arrivalLocalTime": "2025-09-21T02:30:00",
+                "flightCode": "2383",
+                "carrierCode": "AI"
+            },
+            {
+                "sourceStationId": "DEL",
+                "destinationStationId": "CDG",
+                "departureLocalTime": "2025-09-21T04:55:00",
+                "arrivalLocalTime": "2025-09-21T10:35:00",
+                "flightCode": "147",
+                "carrierCode": "AI"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+Journey,Departure,Arrival,Total Kiwi,Total eDreams,Repeated,Repeated %,Missing Content in eDO
+MAD-NYC RT,MAD,NYC,241,1000,28,"Kiwi: 11.62%, eDO: 2.80%",213
+BCN-DPS RT,BCN,DPS,410,816,41,"Kiwi: 10.00%, eDO: 5.02%",369
+BCN-PAR RT,BCN,PAR,290,642,114,"Kiwi: 39.31%, eDO: 17.76%",176
+NYC-SIN RT,NYC,SIN,358,622,46,"Kiwi: 12.85%, eDO: 7.40%",312

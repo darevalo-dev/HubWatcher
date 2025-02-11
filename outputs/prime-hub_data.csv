@@ -1,0 +1,5 @@
+Journey,Missing Hub Cities in eDO,Missing Hub Cities Count,Missing Cheaper Hubs Count,Missing Hub Itinerary Count,Missing Hub Cheaper Itinerary Count
+MAD-NYC RT,"BGY, BVA, CLT, KEF, LGW, LTN, MAN, MXP, OPO, ORY, OSL, OTP, STN, SWF, TER, TLS",16 (43.24%),0,186 (77.18%),0 (0.00%)
+BCN-DPS RT,"ATH, FCO, LYS, MAD, MXP, SZX, TRN",7 (31.82%),1,173 (42.20%),11 (28.21%)
+BCN-PAR RT,"AGP, ALC, ALG, IBZ, MAH, NCE, OPO, SVQ",8 (32.00%),0,32 (11.03%),0 (0.00%)
+NYC-SIN RT,"BBI, BKK, BLR, CAN, CGK, CPH, FOC, HYD, IAD, LHR, MAA, MXP, SEA, SFO, ZRH",15 (31.25%),3,189 (52.79%),4 (80.00%)

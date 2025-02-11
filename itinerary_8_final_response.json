@@ -1,0 +1,983 @@
+{
+  "data": {
+    "returnItineraries": {
+      "__typename": "Itineraries",
+      "server": {
+        "requestId": "c1154f0bdba34cbe85b669354abadc4c",
+        "environment": "PROD",
+        "packageVersion": "git-2ac6780fdf69d4eef24c24eeee2a2525f549e04d",
+        "serverToken": "eyJ0b2tlbiI6IjNOcElFbHFRd1lhNE1QLXFuMmNPaFV2QnQtT09kbEpzdWlKb0lybVNPWnBYdm5JWTVpZTVoRHFyV2kxWVIxZ1NBS1hWSHAxYWRPSTMta3BMSjl3VkRfekpEa013SXdncWE2WU1fS3ZKcS1ra3ZqaEl2cFpMYkxWUmE5MmtDZENZYnFSUDhzcVowSjM5UTRTdkkzQjkySUFkQXd4RWx0VlJidm9EV3preDJvZFdnUlJjS2hVYlVZQjBDV1p6Y1FHaTZGamVIYTFfSndCaU9HeVkxZnZxLWMyUTRDN3RxUU9TQ291bVhOaVI1Q2FFNmVGMFN2cnJkb0RHZ08wV2hoRnJzOENfdERuTW9TTkNOTkloUTB3LTV3TFlWY1NBTWY5clZOUnFCblhHMlRROWZTWmJ0Zk5teU51OEt5MmRfYlk1WlhERHhGVHl5WWN4SDFjMVAwOFAtMVVpc0p5eWs2WFdodDNQckxsc2RyZURrQnlWZ1pwRVVqRGFHNDZ3SWZ1MDB2Y2Qybi12YjBGVzBVeFdlQ0ZwSVk2RjdvVDU4a3FzcTM4MjdNRzdRZzNMTG1OQTV4NGhITEliNmozUXJsS0oiLCJ0aW1lcyI6eyIxIjoxNzM4Nzk1Mjc2LjYwNiwiVFQiOjE3Mzg3OTUyODQuODI2fX0="
+      },
+      "metadata": {
+        "eligibilityInformation": {
+          "baggageEligibilityInformation": {
+            "topFiveResultsBaggageEligibleForPrompt": null,
+            "numberOfBags": null
+          },
+          "guaranteeAndRedirectsEligibilityInformation": {
+            "redirect": {
+              "anywhere": false,
+              "top10": false,
+              "isKiwiAvailable": false
+            },
+            "guarantee": {
+              "anywhere": false,
+              "top10": false
+            },
+            "combination": {
+              "anywhere": false,
+              "top10": false
+            }
+          },
+          "topThreeResortingOccurred": false,
+          "carriersDeeplinkEligibility": null,
+          "responseContainsKayakItinerary": false,
+          "eligibleForVIRemoval": null
+        },
+        "carriers": [
+          {
+            "code": "FD",
+            "id": "Carrier:580",
+            "name": "Thai AirAsia"
+          },
+          {
+            "code": "UG",
+            "id": "Carrier:592",
+            "name": "TunisAir Express"
+          },
+          {
+            "code": "7C",
+            "id": "Carrier:380",
+            "name": "Jeju Air"
+          },
+          {
+            "code": "OS",
+            "id": "Carrier:121",
+            "name": "Austrian Airlines"
+          },
+          {
+            "code": "QP",
+            "id": "Carrier:2694",
+            "name": "Akasa Air"
+          },
+          {
+            "code": "YP",
+            "id": "Carrier:2723",
+            "name": "Air Premia"
+          },
+          {
+            "code": "T5",
+            "id": "Carrier:591",
+            "name": "Turkmenistan Airlines"
+          },
+          {
+            "code": "LJ",
+            "id": "Carrier:671",
+            "name": "Jin Air"
+          },
+          {
+            "code": "PR",
+            "id": "Carrier:492",
+            "name": "Philippine Airlines"
+          },
+          {
+            "code": "DE",
+            "id": "Carrier:28",
+            "name": "Condor"
+          },
+          {
+            "code": "WS",
+            "id": "Carrier:631",
+            "name": "WestJet"
+          },
+          {
+            "code": "3F",
+            "id": "Carrier:800",
+            "name": "FLYONE ARMENIA"
+          },
+          {
+            "code": "6E",
+            "id": "Carrier:357",
+            "name": "IndiGo Airlines"
+          },
+          {
+            "code": "4Y",
+            "id": "Carrier:2409",
+            "name": "Discover Airlines"
+          },
+          {
+            "code": "XQ",
+            "id": "Carrier:25",
+            "name": "SunExpress"
+          },
+          {
+            "code": "BY",
+            "id": "Carrier:584",
+            "name": "TUI Airways"
+          },
+          {
+            "code": "ET",
+            "id": "Carrier:295",
+            "name": "Ethiopian Airlines"
+          },
+          {
+            "code": "JL",
+            "id": "Carrier:375",
+            "name": "Japan Airlines"
+          },
+          {
+            "code": "HY",
+            "id": "Carrier:606",
+            "name": "Uzbekistan Airways"
+          },
+          {
+            "code": "8M",
+            "id": "Carrier:438",
+            "name": "Myanmar Airways"
+          },
+          {
+            "code": "XK",
+            "id": "Carrier:264",
+            "name": "Air Corsica"
+          },
+          {
+            "code": "TO",
+            "id": "Carrier:654",
+            "name": "Transavia France"
+          },
+          {
+            "code": "MK",
+            "id": "Carrier:179",
+            "name": "Air Mauritius"
+          },
+          {
+            "code": "AC",
+            "id": "Carrier:102",
+            "name": "Air Canada"
+          },
+          {
+            "code": "UX",
+            "id": "Carrier:60",
+            "name": "Air Europa"
+          },
+          {
+            "code": "QG",
+            "id": "Carrier:910",
+            "name": "Citilink"
+          },
+          {
+            "code": "ZE",
+            "id": "Carrier:670",
+            "name": "Eastar Jet"
+          },
+          {
+            "code": "XY",
+            "id": "Carrier:468",
+            "name": "flynas"
+          },
+          {
+            "code": "AH",
+            "id": "Carrier:156",
+            "name": "Air Algerie"
+          },
+          {
+            "code": "PC",
+            "id": "Carrier:16",
+            "name": "Pegasus"
+          },
+          {
+            "code": "MH",
+            "id": "Carrier:430",
+            "name": "Malaysia Airlines"
+          },
+          {
+            "code": "H1",
+            "id": "Carrier:830",
+            "name": "Hahn Air"
+          },
+          {
+            "code": "TG",
+            "id": "Carrier:579",
+            "name": "Thai Airways"
+          },
+          {
+            "code": "KC",
+            "id": "Carrier:174",
+            "name": "Air Astana"
+          },
+          {
+            "code": "MS",
+            "id": "Carrier:288",
+            "name": "Egyptair"
+          },
+          {
+            "code": "NX",
+            "id": "Carrier:96",
+            "name": "Air Macau"
+          },
+          {
+            "code": "LS",
+            "id": "Carrier:23",
+            "name": "Jet2"
+          },
+          {
+            "code": "6H",
+            "id": "Carrier:371",
+            "name": "Israir"
+          },
+          {
+            "code": "QS",
+            "id": "Carrier:6",
+            "name": "Smartwings"
+          },
+          {
+            "code": "GA",
+            "id": "Carrier:323",
+            "name": "Garuda Indonesia"
+          },
+          {
+            "code": "MR",
+            "id": "Carrier:756",
+            "name": "Hunnu Air"
+          },
+          {
+            "code": "SC",
+            "id": "Carrier:546",
+            "name": "Shandong Airlines"
+          },
+          {
+            "code": "QF",
+            "id": "Carrier:501",
+            "name": "Qantas"
+          },
+          {
+            "code": "A9",
+            "id": "Carrier:325",
+            "name": "Georgian Airways"
+          },
+          {
+            "code": "KE",
+            "id": "Carrier:399",
+            "name": "Korean Air"
+          },
+          {
+            "code": "VZ",
+            "id": "Carrier:454",
+            "name": "Thai Vietjet"
+          },
+          {
+            "code": "B7",
+            "id": "Carrier:656",
+            "name": "Uni Air"
+          },
+          {
+            "code": "AI",
+            "id": "Carrier:82",
+            "name": "Air India Limited"
+          },
+          {
+            "code": "RO",
+            "id": "Carrier:597",
+            "name": "Tarom"
+          },
+          {
+            "code": "H4",
+            "id": "Carrier:2389",
+            "name": "HiSky Europe"
+          },
+          {
+            "code": "E5",
+            "id": "Carrier:841",
+            "name": "Air Arabia Egypt"
+          },
+          {
+            "code": "WY",
+            "id": "Carrier:473",
+            "name": "Oman Air"
+          },
+          {
+            "code": "CZ",
+            "id": "Carrier:242",
+            "name": "China Southern Airlines"
+          },
+          {
+            "code": "LY",
+            "id": "Carrier:289",
+            "name": "El Al Israel Airlines"
+          },
+          {
+            "code": "MU",
+            "id": "Carrier:241",
+            "name": "China Eastern Airlines"
+          },
+          {
+            "code": "VJ",
+            "id": "Carrier:642",
+            "name": "VietJet Air"
+          },
+          {
+            "code": "GF",
+            "id": "Carrier:333",
+            "name": "Gulf Air Bahrain"
+          },
+          {
+            "code": "FI",
+            "id": "Carrier:355",
+            "name": "Icelandair"
+          },
+          {
+            "code": "EI",
+            "id": "Carrier:10",
+            "name": "Aer Lingus"
+          },
+          {
+            "code": "HB",
+            "id": "Carrier:2721",
+            "name": "Greater Bay Airlines"
+          },
+          {
+            "code": "G9",
+            "id": "Carrier:26",
+            "name": "Air Arabia"
+          },
+          {
+            "code": "UL",
+            "id": "Carrier:522",
+            "name": "SriLankan Airlines"
+          },
+          {
+            "code": "HV",
+            "id": "Carrier:4",
+            "name": "Transavia"
+          },
+          {
+            "code": "CA",
+            "id": "Carrier:151",
+            "name": "Air China"
+          },
+          {
+            "code": "WB",
+            "id": "Carrier:513",
+            "name": "Rwandair"
+          },
+          {
+            "code": "DD",
+            "id": "Carrier:464",
+            "name": "Nok Air"
+          },
+          {
+            "code": "LG",
+            "id": "Carrier:422",
+            "name": "Luxair"
+          },
+          {
+            "code": "JX",
+            "id": "Carrier:818",
+            "name": "Starlux Airlines"
+          },
+          {
+            "code": "IB",
+            "id": "Carrier:352",
+            "name": "Iberia Airlines"
+          },
+          {
+            "code": "I2",
+            "id": "Carrier:864",
+            "name": "Iberia Express"
+          },
+          {
+            "code": "OM",
+            "id": "Carrier:426",
+            "name": "MIAT Mongolian Airlines"
+          },
+          {
+            "code": "EK",
+            "id": "Carrier:291",
+            "name": "Emirates"
+          },
+          {
+            "code": "MF",
+            "id": "Carrier:638",
+            "name": "Xiamen Airlines"
+          },
+          {
+            "code": "LX",
+            "id": "Carrier:541",
+            "name": "Swiss International Air Lines"
+          },
+          {
+            "code": "FJ",
+            "id": "Carrier:162",
+            "name": "Fiji Airways"
+          },
+          {
+            "code": "5J",
+            "id": "Carrier:237",
+            "name": "Cebu Pacific"
+          },
+          {
+            "code": "BI",
+            "id": "Carrier:511",
+            "name": "Royal Brunei Airlines"
+          },
+          {
+            "code": "FR",
+            "id": "Carrier:11",
+            "name": "Ryanair"
+          },
+          {
+            "code": "BA",
+            "id": "Carrier:207",
+            "name": "British Airways"
+          },
+          {
+            "code": "W6",
+            "id": "Carrier:12",
+            "name": "Wizz Air"
+          },
+          {
+            "code": "EY",
+            "id": "Carrier:296",
+            "name": "Etihad Airways"
+          },
+          {
+            "code": "HX",
+            "id": "Carrier:348",
+            "name": "Hong Kong Airlines"
+          },
+          {
+            "code": "JD",
+            "id": "Carrier:648",
+            "name": "Beijing Capital Airlines"
+          },
+          {
+            "code": "DN",
+            "id": "Carrier:847",
+            "name": "Dan Air"
+          },
+          {
+            "code": "QR",
+            "id": "Carrier:502",
+            "name": "Qatar Airways"
+          },
+          {
+            "code": "TK",
+            "id": "Carrier:581",
+            "name": "Turkish Airlines"
+          },
+          {
+            "code": "KM",
+            "id": "Carrier:87",
+            "name": "KM Malta Airlines"
+          },
+          {
+            "code": "W4",
+            "id": "Carrier:820",
+            "name": "Wizz Air Malta"
+          },
+          {
+            "code": "J9",
+            "id": "Carrier:379",
+            "name": "Jazeera Airways"
+          },
+          {
+            "code": "F3",
+            "id": "Carrier:1018",
+            "name": "Flyadeal"
+          },
+          {
+            "code": "TU",
+            "id": "Carrier:573",
+            "name": "Tunisair"
+          },
+          {
+            "code": "5F",
+            "id": "Carrier:1023",
+            "name": "FLY ONE"
+          },
+          {
+            "code": "U2",
+            "id": "Carrier:3",
+            "name": "easyJet"
+          },
+          {
+            "code": "OV",
+            "id": "Carrier:294",
+            "name": "SalamAir"
+          },
+          {
+            "code": "OZ",
+            "id": "Carrier:51",
+            "name": "Asiana Airlines"
+          },
+          {
+            "code": "PK",
+            "id": "Carrier:489",
+            "name": "Pakistan International Airlines"
+          },
+          {
+            "code": "VY",
+            "id": "Carrier:9",
+            "name": "Vueling"
+          },
+          {
+            "code": "FM",
+            "id": "Carrier:549",
+            "name": "Shanghai Airlines"
+          },
+          {
+            "code": "J2",
+            "id": "Carrier:79",
+            "name": "Azerbaijan Airlines"
+          },
+          {
+            "code": "ZB",
+            "id": "Carrier:18",
+            "name": "Air Albania"
+          },
+          {
+            "code": "KN",
+            "id": "Carrier:694",
+            "name": "China United"
+          },
+          {
+            "code": "VU",
+            "id": "Carrier:144",
+            "name": "Vietravel Airlines"
+          },
+          {
+            "code": "ME",
+            "id": "Carrier:445",
+            "name": "Middle East Airlines"
+          },
+          {
+            "code": "SV",
+            "id": "Carrier:538",
+            "name": "Saudi Arabian Airlines"
+          },
+          {
+            "code": "D8",
+            "id": "Carrier:276",
+            "name": "Norwegian International"
+          },
+          {
+            "code": "NO",
+            "id": "Carrier:1001",
+            "name": "Neos Air"
+          },
+          {
+            "code": "AK",
+            "id": "Carrier:136",
+            "name": "AirAsia"
+          },
+          {
+            "code": "3U",
+            "id": "Carrier:548",
+            "name": "Sichuan Airlines"
+          },
+          {
+            "code": "CI",
+            "id": "Carrier:240",
+            "name": "China Airlines"
+          },
+          {
+            "code": "OU",
+            "id": "Carrier:265",
+            "name": "Croatia Airlines"
+          },
+          {
+            "code": "CX",
+            "id": "Carrier:235",
+            "name": "Cathay Pacific"
+          },
+          {
+            "code": "XJ",
+            "id": "Carrier:443",
+            "name": "Thai AirAsia X"
+          },
+          {
+            "code": "V7",
+            "id": "Carrier:15",
+            "name": "Volotea"
+          },
+          {
+            "code": "BG",
+            "id": "Carrier:208",
+            "name": "Biman Bangladesh Airlines"
+          },
+          {
+            "code": "BT",
+            "id": "Carrier:22",
+            "name": "airBaltic"
+          },
+          {
+            "code": "SQ",
+            "id": "Carrier:528",
+            "name": "Singapore Airlines"
+          },
+          {
+            "code": "OD",
+            "id": "Carrier:888",
+            "name": "Batik Air Malaysia"
+          },
+          {
+            "code": "EW",
+            "id": "Carrier:301",
+            "name": "Eurowings"
+          },
+          {
+            "code": "GJ",
+            "id": "Carrier:299",
+            "name": "Loong Air"
+          },
+          {
+            "code": "IT",
+            "id": "Carrier:396",
+            "name": "Tigerair Taiwan"
+          },
+          {
+            "code": "TR",
+            "id": "Carrier:577",
+            "name": "Scoot"
+          },
+          {
+            "code": "D7",
+            "id": "Carrier:314",
+            "name": "AirAsia X"
+          },
+          {
+            "code": "PG",
+            "id": "Carrier:211",
+            "name": "Bangkok Airways"
+          },
+          {
+            "code": "9C",
+            "id": "Carrier:785",
+            "name": "Spring Airlines"
+          },
+          {
+            "code": "SN",
+            "id": "Carrier:223",
+            "name": "Brussels Airlines"
+          },
+          {
+            "code": "XZ",
+            "id": "Carrier:771",
+            "name": "Aeroitalia"
+          },
+          {
+            "code": "HO",
+            "id": "Carrier:388",
+            "name": "Juneyao Airlines"
+          },
+          {
+            "code": "8B",
+            "id": "Carrier:851",
+            "name": "TransNusa"
+          },
+          {
+            "code": "5W",
+            "id": "Carrier:1134",
+            "name": "Wizz Air Abu Dhabi"
+          },
+          {
+            "code": "FZ",
+            "id": "Carrier:27",
+            "name": "Fly Dubai"
+          },
+          {
+            "code": "H7",
+            "id": "Carrier:283",
+            "name": "HiSky"
+          },
+          {
+            "code": "EN",
+            "id": "Carrier:158",
+            "name": "Air Dolomiti"
+          },
+          {
+            "code": "AY",
+            "id": "Carrier:307",
+            "name": "Finnair"
+          },
+          {
+            "code": "SM",
+            "id": "Carrier:737",
+            "name": "Air Cairo"
+          },
+          {
+            "code": "IX",
+            "id": "Carrier:134",
+            "name": "Air India Express"
+          },
+          {
+            "code": "AZ",
+            "id": "Carrier:138",
+            "name": "ITA Airways"
+          },
+          {
+            "code": "FB",
+            "id": "Carrier:225",
+            "name": "Bulgaria Air"
+          },
+          {
+            "code": "SL",
+            "id": "Carrier:982",
+            "name": "Thai Lion Air"
+          },
+          {
+            "code": "KQ",
+            "id": "Carrier:395",
+            "name": "Kenya Airways"
+          },
+          {
+            "code": "Z2",
+            "id": "Carrier:668",
+            "name": "Philippines AirAsia"
+          },
+          {
+            "code": "RK",
+            "id": "Carrier:189",
+            "name": "Ryanair UK"
+          },
+          {
+            "code": "TW",
+            "id": "Carrier:816",
+            "name": "Tway Airlines"
+          },
+          {
+            "code": "NE",
+            "id": "Carrier:552",
+            "name": "Nesma Airlines"
+          },
+          {
+            "code": "SG",
+            "id": "Carrier:524",
+            "name": "Spicejet"
+          },
+          {
+            "code": "AT",
+            "id": "Carrier:510",
+            "name": "Royal Air Maroc"
+          },
+          {
+            "code": "LH",
+            "id": "Carrier:419",
+            "name": "Lufthansa"
+          },
+          {
+            "code": "JU",
+            "id": "Carrier:378",
+            "name": "Air Serbia"
+          },
+          {
+            "code": "VN",
+            "id": "Carrier:611",
+            "name": "Vietnam Airlines"
+          },
+          {
+            "code": "LO",
+            "id": "Carrier:409",
+            "name": "LOT Polish Airlines"
+          },
+          {
+            "code": "W9",
+            "id": "Carrier:170",
+            "name": "Wizz Air UK"
+          },
+          {
+            "code": "NH",
+            "id": "Carrier:99",
+            "name": "All Nippon Airways"
+          },
+          {
+            "code": "SB",
+            "id": "Carrier:71",
+            "name": "Aircalin"
+          },
+          {
+            "code": "BR",
+            "id": "Carrier:282",
+            "name": "EVA Air"
+          },
+          {
+            "code": "ID",
+            "id": "Carrier:362",
+            "name": "Batik Air"
+          },
+          {
+            "code": "GQ",
+            "id": "Carrier:1157",
+            "name": "SKY express"
+          },
+          {
+            "code": "UU",
+            "id": "Carrier:187",
+            "name": "Air Austral"
+          },
+          {
+            "code": "HU",
+            "id": "Carrier:335",
+            "name": "Hainan Airlines"
+          },
+          {
+            "code": "SK",
+            "id": "Carrier:519",
+            "name": "SAS"
+          },
+          {
+            "code": "TN",
+            "id": "Carrier:84",
+            "name": "Air Tahiti Nui"
+          },
+          {
+            "code": "A1",
+            "id": "Carrier:683",
+            "name": "A.P.G. Distribution System"
+          },
+          {
+            "code": "DY",
+            "id": "Carrier:17",
+            "name": "Norwegian"
+          },
+          {
+            "code": "KU",
+            "id": "Carrier:402",
+            "name": "Kuwait Airways"
+          },
+          {
+            "code": "WF",
+            "id": "Carrier:632",
+            "name": "Widerøe"
+          },
+          {
+            "code": "TP",
+            "id": "Carrier:572",
+            "name": "TAP Portugal"
+          },
+          {
+            "code": "QZ",
+            "id": "Carrier:359",
+            "name": "Indonesia AirAsia"
+          },
+          {
+            "code": "VS",
+            "id": "Carrier:618",
+            "name": "Virgin Atlantic Airways"
+          },
+          {
+            "code": "NZ",
+            "id": "Carrier:106",
+            "name": "Air New Zealand"
+          },
+          {
+            "code": "UA",
+            "id": "Carrier:601",
+            "name": "United Airlines"
+          },
+          {
+            "code": "BJ",
+            "id": "Carrier:42",
+            "name": "NouvelAir"
+          },
+          {
+            "code": "A3",
+            "id": "Carrier:39",
+            "name": "Aegean"
+          },
+          {
+            "code": "N0",
+            "id": "Carrier:806",
+            "name": "Norse Atlantic Airways"
+          },
+          {
+            "code": "3L",
+            "id": "Carrier:363",
+            "name": "Air Arabia Abu Dhabi"
+          },
+          {
+            "code": "QV",
+            "id": "Carrier:412",
+            "name": "Lao Airlines"
+          },
+          {
+            "code": "3K",
+            "id": "Carrier:383",
+            "name": "Jetstar Asia Airways"
+          },
+          {
+            "code": "UO",
+            "id": "Carrier:349",
+            "name": "Hong Kong Express Airways"
+          },
+          {
+            "code": "RJ",
+            "id": "Carrier:512",
+            "name": "Royal Jordanian"
+          },
+          {
+            "code": "AR",
+            "id": "Carrier:112",
+            "name": "Aerolineas Argentinas"
+          },
+          {
+            "code": "ZH",
+            "id": "Carrier:550",
+            "name": "Shenzhen Airlines"
+          },
+          {
+            "code": "VF",
+            "id": "Carrier:610",
+            "name": "AJet"
+          }
+        ],
+        "stopoverCountries": [],
+        "inboundDays": [],
+        "outboundDays": [],
+        "travelTips": [],
+        "topResults": {
+          "best": null,
+          "cheapest": null,
+          "fastest": null,
+          "sourceTakeoffAsc": null,
+          "destinationLandingAsc": null
+        },
+        "priceAlertExists": null,
+        "existingPriceAlert": null,
+        "searchFingerprint": "eyJwYXJhbXMiOnsiZmlsdGVyIjp7ImFsbG93Q2hhbmdlSW5ib3VuZERlc3RpbmF0aW9uIjp0cnVlLCJhbGxvd0NoYW5nZUluYm91bmRTb3VyY2UiOnRydWUsImFsbG93T3Zlcm5pZ2h0U3RvcG92ZXIiOnRydWUsImFsbG93RGlmZmVyZW50U3RhdGlvbkNvbm5lY3Rpb24iOnRydWUsImNvbnRlbnRQcm92aWRlcnMiOlsiS0lXSSIsIkZSRVNIIiwiS0FZQUsiLCJXRUdPIiwiVTJfTUVUQV9BUEkiXSwiZmxpZ2h0c0FwaUxpbWl0IjoyNSwibGltaXQiOjEwLCJzaG93Tm9DaGVja2VkQmFncyI6dHJ1ZSwidHJhbnNwb3J0VHlwZXMiOlsiRkxJR0hUIl0sImVuYWJsZUZyb21Ub0xvY2F0aW9uSW5WaWEiOmZhbHNlLCJlbmFibGVTZWxmVHJhbnNmZXIiOnRydWUsImVuYWJsZVRydWVIaWRkZW5DaXR5Ijp0cnVlLCJlbmFibGVUaHJvd0F3YXlUaWNrZXRpbmciOnRydWUsImV4Y2x1ZGVUSENJblNlYXJjaFJlc3VsdHMiOmZhbHNlLCJhbGxvd1JldHVybkZyb21EaWZmZXJlbnRDaXR5Ijp0cnVlLCJlbnN1cmVLaXdpQm9va2luZ09wdGlvbiI6ZmFsc2V9LCJvcHRpb25zIjp7ImN1cnJlbmN5IjoiZXVyIiwicGFydG5lciI6InNreXBpY2tlciIsInBhcnRuZXJNYXJrZXQiOiJlcyIsImFmZmlsSUQiOiJza3lwaWNrZXIiLCJsb2NhbGUiOiJlbiIsImV4YWN0VHJhdmVsVGlwcyI6ZmFsc2UsInNvcnRWZXJzaW9uIjoxMCwiYXBwbHlTb3J0aW5nQ2hhbmdlcyI6ZmFsc2UsImFiVGVzdElucHV0Ijp7ImNhcnJpZXJzRGVlcGxpbmtSZXN1bHRzRW5hYmxlIjp0cnVlLCJjYXJyaWVyc0RlZXBsaW5rT25TRU1FbmFibGUiOnRydWUsImtheWFrV2l0aG91dEJhZ3MiOiJESVNBQkxFIiwicHJpY2VFbGFzdGljaXR5R3VhcmFudGVlIjoiRElTQUJMRSIsImJhZ2dhZ2VQcm90ZWN0aW9uQnVuZGxlIjoiRU5BQkxFIn0sInVzZVByZWNhY2hlZCI6ZmFsc2UsInNvcnRCeSI6IlFVQUxJVFkiLCJtZXJnZVByaWNlRGlmZlJ1bGUiOiJJTkNSRUFTRUQiLCJmYXN0RmlsdGVycyI6ZmFsc2UsInNlYXJjaFN0cmF0ZWd5IjoiUkVEVUNFRCIsImZlYXR1cmVOYW1lIjoiU2VhcmNoUmV0dXJuSXRpbmVyYXJpZXNRdWVyeSIsImlzUHJlZmV0Y2giOmZhbHNlLCJzZWFyY2hTZXNzaW9uSWQiOiI2MTk1OGJlMzJiZTI0NWNlODJkY2FkNjFhNDAxOGU5MCJ9LCJzZWFyY2giOnsicGFzc2VuZ2VycyI6eyJhZHVsdHNIb2xkQmFncyI6WzBdLCJhZHVsdHNIYW5kQmFncyI6WzBdLCJhZHVsdHMiOjEsImNoaWxkcmVuIjowLCJpbmZhbnRzIjowfSwiY2FiaW5DbGFzcyI6eyJjYWJpbkNsYXNzIjoiRUNPTk9NWSIsImFwcGx5TWl4ZWRDbGFzc2VzIjpmYWxzZX0sIml0aW5lcmFyeSI6eyJzb3VyY2UiOnsiaWRzIjpbInJvbWVfaXQiXX0sImRlc3RpbmF0aW9uIjp7ImlkcyI6WyJob25nLWtvbmdfaGsiXX0sIm91dGJvdW5kRGVwYXJ0dXJlRGF0ZSI6eyJzdGFydCI6IjIwMjYtMDItMTVUMDA6MDA6MDAiLCJlbmQiOiIyMDI2LTAyLTE1VDIzOjU5OjU5In0sImluYm91bmREZXBhcnR1cmVEYXRlIjp7InN0YXJ0IjoiMjAyNi0wMi0yNVQwMDowMDowMCIsImVuZCI6IjIwMjYtMDItMjVUMjM6NTk6NTkifX19fSwic2VhcmNoX3R5cGUiOiJSRVRVUk5fSVRJTkVSQVJJRVMiLCJzZWFyY2hfaWQiOiJjYzQyZWFiNTNmNDMiLCJjcmVhdGVkX2F0IjoxNzM4Nzk1Mjg0LCJ2ZXJzaW9uIjoxfQ==",
+        "hasMorePending": false,
+        "priceAlertsTopResults": {
+          "best": null,
+          "cheapest": null,
+          "fastest": null,
+          "sourceTakeoffAsc": null,
+          "destinationLandingAsc": null
+        },
+        "itinerariesCount": 0,
+        "missingProviders": [],
+        "statusPerProvider": [
+          {
+            "provider": {
+              "id": "ContentProvider:KIWI"
+            },
+            "errorHappened": false,
+            "errorMessage": null
+          }
+        ],
+        "hasTier1MarketItineraries": true,
+        "isSortOrderSameAsDefault": null,
+        "sharedItinerary": null,
+        "kayakEligibilityTest": {
+          "containsKayakWithNewRules": null,
+          "containsKayakWithCurrentRules": false,
+          "containsKayakAirlinesWithNewRules": null
+        },
+        "sortEligibilityInformation": {
+          "viPenalisationEligible": null
+        },
+        "extendedTrackingMetadata": null
+      },
+      "itineraries": []
+    }
+  }
+}
